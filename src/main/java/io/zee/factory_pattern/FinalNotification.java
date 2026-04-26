@@ -1,4 +1,4 @@
-package lo.zee.design_pattern;
+package io.zee.factory_pattern;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lo.zee.prototype_pattern;
+package io.zee.prototype_pattern;
 
 import java.util.HashMap;
 import java.util.Map;

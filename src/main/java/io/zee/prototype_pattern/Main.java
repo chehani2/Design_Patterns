@@ -1,4 +1,4 @@
-package lo.zee.prototype_pattern;
+package io.zee.prototype_pattern;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
