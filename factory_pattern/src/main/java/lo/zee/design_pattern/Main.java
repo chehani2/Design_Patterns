@@ -1,4 +1,4 @@
-package com.itechro.design_pattern;
+package lo.zee.design_pattern;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

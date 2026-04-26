@@ -1,4 +1,4 @@
-package com.itechro.design_pattern;
+package lo.zee.design_pattern;
 
 import java.util.ArrayList;
 import java.util.List;

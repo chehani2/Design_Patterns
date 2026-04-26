@@ -1,4 +1,4 @@
-package com.itechro.design_pattern;
+package lo.zee.design_pattern;
 
 public class NotificationFactory {
 

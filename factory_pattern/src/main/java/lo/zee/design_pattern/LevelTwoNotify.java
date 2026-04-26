@@ -1,17 +1,18 @@
-package com.itechro.design_pattern;
+package lo.zee.design_pattern;
 
-public class BasicNotify extends FinalNotification {
+public class LevelTwoNotify extends FinalNotification {
 
     @Override
     protected void createNotifications() {
         notifications.add(new EmailNotification());
+        notifications.add(new SMSNotification());
+        notifications.add(new PushNotification());
     }
 
     @Override
     public String toString() {
-        return "BasicNotify{" +
+        return "LevelTwoNotify{" +
                 "notifications=" + notifications +
                 '}';
     }
-
 }
